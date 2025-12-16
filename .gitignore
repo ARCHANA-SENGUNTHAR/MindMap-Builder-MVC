@@ -1,0 +1,11 @@
+# Compiled files
+bin/
+
+# Database config (DO NOT COMMIT)
+config.properties
+
+# OS / IDE files
+*.log
+*.class
+.idea/
+.vscode/
