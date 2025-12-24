@@ -5,10 +5,10 @@ import java.time.LocalDate;
 public class Node {
     private int id;
     private String title;
-    private String topic; // category e.g., "Data Structures"
+    private String topic;
     private String content;
     private LocalDate createdAt;
-    private LocalDate nextReviewDate; // for spaced repetition
+    private LocalDate nextReviewDate;
 
     public Node() {
     }

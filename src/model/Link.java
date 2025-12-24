@@ -4,7 +4,7 @@ public class Link {
     private int id;
     private int fromNodeId;
     private int toNodeId;
-    private String relation; // optional label
+    private String relation;
 
     public Link() {
     }
