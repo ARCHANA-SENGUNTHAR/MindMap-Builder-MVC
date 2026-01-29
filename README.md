@@ -194,15 +194,3 @@ Example:
 * Graph-based problem solving
 * Defensive programming
 * Real-world console application design
-
----
-
-## 🔮 Future Enhancements
-
-* GUI / Web version
-* Auto-generate mind maps from syllabus text
-* Difficulty-based spaced repetition
-* Export mind maps (JSON / PDF)
-* User authentication
-
----
